@@ -103,7 +103,7 @@
     <string name="cfTemplateForwardedTime" msgid="9206251736527085256">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: <xliff:g id="DIALING_NUMBER">{1}</xliff:g> بعد <xliff:g id="TIME_DELAY">{2}</xliff:g> ثانية"</string>
     <string name="cfTemplateRegistered" msgid="5073237827620166285">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: لم تتم إعادة التوجيه"</string>
     <string name="cfTemplateRegisteredTime" msgid="6781621964320635172">"<xliff:g id="BEARER_SERVICE_CODE">{0}</xliff:g>: لم تتم إعادة التوجيه"</string>
-    <string name="fcComplete" msgid="3118848230966886575">"اكتمل كود الميزة."</string>
+    <string name="fcComplete" msgid="3118848230966886575">"إكتمل كود الميزة."</string>
     <string name="fcError" msgid="3327560126588500777">"حدثت مشكلة بالاتصال أو أن كود الميزة غير صحيح."</string>
     <string name="httpErrorOk" msgid="1191919378083472204">"موافق"</string>
     <string name="httpError" msgid="2567300624552921790">"تحتوي صفحة الويب على خطأ."</string>
@@ -117,7 +117,7 @@
     <string name="httpErrorRedirectLoop" msgid="8679596090392779516">"تحتوي هذه الصفحة على عمليات إعادة توجيه خادم كثيرة للغاية."</string>
     <string name="httpErrorUnsupportedScheme" msgid="5257172771607996054">"البروتوكول غير معتمد."</string>
     <string name="httpErrorFailedSslHandshake" msgid="3088290300440289771">"تعذر تأسيس اتصال آمن."</string>
-    <string name="httpErrorBadUrl" msgid="6088183159988619736">"تعذر فتح الصفحة حيث إن عنوان URL غير صحيح."</string>
+    <string name="httpErrorBadUrl" msgid="6088183159988619736">"العنوان غير صحيح."</string>
     <string name="httpErrorFile" msgid="8250549644091165175">"تعذر الدخول إلى الملف."</string>
     <string name="httpErrorFileNotFound" msgid="5588380756326017105">"لم يتم العثور على الملف المطلوب."</string>
     <string name="httpErrorTooManyRequests" msgid="1235396927087188253">"تتم الآن معالجة طلبات كثيرة للغاية. حاول مرة أخرى في وقت لاحق."</string>
